@@ -1,0 +1,60 @@
+body {
+    background-color: #1D1D1D;
+    font-family: "Yu Gothic UI Semibold", sans-serif;
+}
+
+.sidenav {
+    height: 100%;
+    width: 60px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #181818;
+    overflow-x: hidden;
+    background-size: cover;
+}
+
+.sidenav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 22px 12px;
+    text-decoration: none;
+    font-family: "Yu Gothic UI Semibold", sans-serif;
+
+}
+.sidenav a:hover {
+    color: #0DFDD8;
+}
+.navmenu{
+    text-align: center;
+    display: block;
+    font-size: 16px;
+    margin-top: 220px;
+
+}
+.navimage{
+    background: #070707;
+    display: block;
+    position: center;
+    padding: 12px 16px;
+    height: 60px;
+}
+.text{
+    margin-left: 9.5%;
+    color: white;
+    font-size: 34px;
+    font-family: "Raleway SemiBold", sans-serif;
+    margin-top: 17%;
+    max-width: 30%;
+    word-spacing: 2px;
+    letter-spacing: -4px;
+}
+.subtext{
+    font-family: "Segoe UI Light", sans-serif;
+    font-size: 20px;
+    color: gray;
+    word-spacing: -2px;
+    letter-spacing: 0px;
+}
