@@ -1,3 +1,24 @@
+@font-face {
+    font-family: 'OMGSECRETFONTo_o';
+    src: url('../fonts/coolvetica-webfont.woff2') format('woff2'),
+    url('../fonts/coolvetica-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.colorchange {
+    animation: color-change 1s infinite;
+}
+
+@keyframes color-change {
+    0% { color: gray; }
+    50% { color: #0DFDD8; }
+    100% { color: gray; }
+
+}
+
+
+
 body {
     background-color: #1D1D1D;
     font-family: "Yu Gothic UI Semibold", sans-serif;
@@ -31,7 +52,7 @@ body {
     text-align: center;
     display: block;
     font-size: 16px;
-    margin-top: 220px;
+    margin-top: 340%;
 
 }
 .navimage{
@@ -45,16 +66,21 @@ body {
     margin-left: 9.5%;
     color: white;
     font-size: 34px;
-    font-family: "Raleway SemiBold", sans-serif;
+    font-family: "OMGSECRETFONTo_o","Raleway SemiBold", sans-serif;
     margin-top: 17%;
-    max-width: 30%;
-    word-spacing: 2px;
-    letter-spacing: -4px;
+    max-width: 40%;
+    max-height: 10%;
+    letter-spacing: 2px;
+    line-height: 69px;
 }
 .subtext{
     font-family: "Segoe UI Light", sans-serif;
     font-size: 20px;
+    margin-top: -50px;
     color: gray;
     word-spacing: -2px;
     letter-spacing: 0px;
+}
+.active{
+    color: #0DFDD8;
 }
