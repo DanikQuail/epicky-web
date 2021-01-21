@@ -31,7 +31,7 @@ body {
 }
 .subtext{
     font-family: "Segoe UI Light", sans-serif;
-    font-size: 20px;
+    font-size: 22px;
     margin-top: -50px;
     color: gray;
     word-spacing: -2px;
@@ -45,7 +45,7 @@ body {
     border: 2px solid #08fdd8;
     padding: 14px 28px;
     text-decoration: none;
-    font-size: 13px;
+    font-size: 15px;
     background-color: #1D1D1D;
     cursor: pointer;
     color: #08fdd8;

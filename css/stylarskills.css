@@ -6,19 +6,6 @@
     font-style: normal;
 
 }
-h2 {
-    animation: color-change 1s infinite;
-}
-
-@keyframes color-change {
-    0% { color: gray; }
-    50% { color: #0DFDD8; }
-    100% { color: gray; }
-
-}
-
-
-
 body {
     background-color: #1D1D1D;
     font-family: "Yu Gothic UI Semibold", sans-serif;
@@ -33,12 +20,4 @@ body {
     max-height: 10%;
     letter-spacing: 2px;
     line-height: 69px;
-}
-.subtext{
-    font-family: "Segoe UI Light", sans-serif;
-    font-size: 20px;
-    margin-top: -50px;
-    color: gray;
-    word-spacing: -2px;
-    letter-spacing: 0px;
 }
