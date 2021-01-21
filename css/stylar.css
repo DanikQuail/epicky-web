@@ -9,15 +9,11 @@
 .colorchange {
     animation: color-change 1s infinite;
 }
-
 @keyframes color-change {
     0% { color: gray; }
     50% { color: #0DFDD8; }
     100% { color: gray; }
 }
-
-
-
 body {
     background-color: #1D1D1D;
     font-family: "Yu Gothic UI Semibold", sans-serif;
@@ -43,4 +39,24 @@ body {
 }
 .LMFAO{
     height: 58px;
+}
+.contactmebutton{
+    margin-left: 9.5%;
+    border: 2px solid #08fdd8;
+    padding: 14px 28px;
+    text-decoration: none;
+    font-size: 13px;
+    background-color: #1D1D1D;
+    cursor: pointer;
+    color: #08fdd8;
+    letter-spacing: 2px;
+}
+.contactmebutton:hover{
+    background-color: #08fdd8;
+    color: #1D1D1D;
+}
+.epickaanimace_vubectoneniobrazek{
+    position: fixed;
+    margin-left: 55%;
+    margin-top: -20%;
 }
