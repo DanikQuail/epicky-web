@@ -21,10 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="92b652f9-ec32-46df-b977-930fb796e1e4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/stylar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/stylarnavbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylarnavbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/stylarskills.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylarskills.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/skills.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylarkontakt.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylarkontakt.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +79,8 @@
       <workItem from="1611066494079" duration="1156000" />
       <workItem from="1611067702080" duration="84000" />
       <workItem from="1611257930830" duration="8370000" />
+      <workItem from="1611266426252" duration="392000" />
+      <workItem from="1611269392142" duration="787000" />
     </task>
     <servers />
   </component>
@@ -98,6 +97,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1480" y="94" key="#Project_Structure" timestamp="1611052270629">

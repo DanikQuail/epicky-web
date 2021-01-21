@@ -65,6 +65,7 @@ body {
     font-size: 18px;
     width: 600px;
     margin-top: 10px;
+    resize: vertical;
 }
 .submitform{
     border: 2px solid #08fdd8;
