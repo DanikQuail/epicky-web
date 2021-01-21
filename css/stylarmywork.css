@@ -6,19 +6,6 @@
     font-style: normal;
 
 }
-h2 {
-    animation: color-change 1s infinite;
-}
-
-@keyframes color-change {
-    0% { color: gray; }
-    50% { color: #0DFDD8; }
-    100% { color: gray; }
-
-}
-
-
-
 body {
     background-color: #1D1D1D;
     font-family: "Yu Gothic UI Semibold", sans-serif;
@@ -28,17 +15,31 @@ body {
     color: white;
     font-size: 34px;
     font-family: "OMGSECRETFONTo_o","Raleway SemiBold", sans-serif;
-    margin-top: 17%;
-    max-width: 40%;
+    margin-top: 14%;
     max-height: 10%;
     letter-spacing: 2px;
     line-height: 69px;
 }
-.subtext{
-    font-family: "Segoe UI Light", sans-serif;
-    font-size: 20px;
-    margin-top: -50px;
-    color: gray;
-    word-spacing: -2px;
-    letter-spacing: 0px;
+.header{
+    color: #0DFDD8;
+    letter-spacing: 3px;
 }
+.github{
+    background-image: url("../images/github.png");
+    background-size: cover;
+    background-color: #161616;
+    position: absolute;
+    height: 220px;
+    width: 440px;
+    cursor: pointer;
+    border: 2px solid #0DFDD8;
+    margin-top: 2%;
+    margin-left: 1%;
+}
+h2{
+     font-size: 16px;
+     font-family: "Roboto", sans-serif;
+     line-height: 15px;
+     letter-spacing: 0px;
+     margin-left: 1%;
+ }
