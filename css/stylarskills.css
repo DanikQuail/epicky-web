@@ -21,3 +21,26 @@ body {
     letter-spacing: 2px;
     line-height: 69px;
 }
+.header{
+    color: #0DFDD8;
+    letter-spacing: 2px;
+}
+h2{
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    line-height: 15px;
+    letter-spacing: 0px;
+}
+.link{
+    font-family: "Roboto Medium",sans-serif;
+    color: #0DFDD8;
+    text-decoration: none;
+}
+.image{
+    position: fixed;
+    margin-left: 55%;
+    margin-top: -14%;
+    border: 2px solid #0DFDD8;
+    height: 40%;
+    width: 40%;
+}
