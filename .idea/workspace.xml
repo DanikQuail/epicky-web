@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92b652f9-ec32-46df-b977-930fb796e1e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/stylarnavbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylarnavbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/skills.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +85,7 @@
       <workItem from="1611272070103" duration="4325000" />
       <workItem from="1611276427107" duration="195000" />
       <workItem from="1611304537857" duration="380000" />
-      <workItem from="1611314049038" duration="1664000" />
+      <workItem from="1611314049038" duration="2132000" />
     </task>
     <servers />
   </component>
