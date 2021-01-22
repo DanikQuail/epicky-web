@@ -38,8 +38,10 @@ h2{
 }
 .image{
     position: fixed;
-    margin-left: 55%;
-    margin-top: -14%;
+    margin-top: 13%;
+    margin-right: 7%;
+    top: 0;
+    right: 0;
     border: 2px solid #0DFDD8;
     height: 40%;
     width: 40%;

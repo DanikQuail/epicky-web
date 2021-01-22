@@ -21,7 +21,7 @@ body {
     color: white;
     font-size: 34px;
     font-family: "OMGSECRETFONTo_o","Raleway SemiBold", sans-serif;
-    margin-top: 10%;
+    margin-top: 11%;
     letter-spacing: 2px;
     line-height: 69px;
 }
@@ -30,7 +30,7 @@ body {
     letter-spacing: 2px;
 }
 .contactform{
-    width: 50%;
+    max-width: 50%;
     margin-left: 9.5%;
 }
 .name{
@@ -87,4 +87,9 @@ input{
 }
 .submitbutton{
     margin-top: 2%;
+}
+.mapa{
+    position: fixed;
+    right: 0;
+    top: 0;
 }

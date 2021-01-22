@@ -37,8 +37,10 @@ h2{
 }
 .ja{
     position: fixed;
-    margin-left: 63%;
-    margin-top: -14%;
+    top: 0;
+    margin-top: 12%;
+    margin-right: 11%;
+    right: 0;
     border: 2px solid #0DFDD8;
 }
 .link{
