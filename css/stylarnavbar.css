@@ -40,5 +40,11 @@
     color: #0DFDD8;
 }
 .navsocial{
-    margin-top: 300%;
+    text-align: center;
+    display: block;
+    margin-left: 9px;
+    padding-bottom: 25px;
+    bottom: 0;
+    position: fixed;
+    left: 0;
 }
