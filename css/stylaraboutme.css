@@ -29,7 +29,7 @@ h2{
 }
 
 .header{
-    color: #0DFDD8;
+    color: #990000;
     letter-spacing: 2px;
 }
 .timeline{
@@ -41,10 +41,31 @@ h2{
     margin-top: 12%;
     margin-right: 11%;
     right: 0;
-    border: 2px solid #0DFDD8;
+    border: 2px solid #990000;
 }
 .link{
     font-family: "Roboto Medium",sans-serif;
-    color: #0DFDD8;
+    color: #990000;
     text-decoration: none;
+}
+@media screen and (max-width: 1600px) {
+    .timeline{
+        position: relative;
+        top: 0;
+        margin-top: 5%;
+        margin-left: 10%;
+        left: 0;
+    }
+    .ja{
+        position: relative;
+        top: 0;
+        margin-top: 15%;
+        margin-bottom: 5%;
+        margin-left: 25%;
+        left: 0;
+        border: 2px solid #990000;
+    }
+    .text{
+        margin-left: 13%;
+    }
 }

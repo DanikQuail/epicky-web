@@ -22,7 +22,7 @@ body {
     line-height: 69px;
 }
 .header{
-    color: #0DFDD8;
+    color: #990000;
     letter-spacing: 2px;
 }
 h2{
@@ -33,7 +33,7 @@ h2{
 }
 .link{
     font-family: "Roboto Medium",sans-serif;
-    color: #0DFDD8;
+    color: #990000;
     text-decoration: none;
 }
 .image{
@@ -42,7 +42,20 @@ h2{
     margin-right: 7%;
     top: 0;
     right: 0;
-    border: 2px solid #0DFDD8;
+    border: 2px solid #990000;
     height: 40%;
     width: 40%;
+}
+@media screen and (max-width: 1000px) {
+    .image{
+        position: relative;
+        margin-top: 15%;
+        margin-left: 11%;
+        margin-bottom: 5%;
+        top: 0;
+        left: 0;
+        border: 2px solid #990000;
+        height: 40%;
+        width: 40%;
+    }
 }
